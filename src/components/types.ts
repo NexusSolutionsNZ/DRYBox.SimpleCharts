@@ -1,0 +1,1 @@
+export type Range = { from: string; to: string };
